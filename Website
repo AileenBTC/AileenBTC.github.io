@@ -1,0 +1,39 @@
+<!doctype html> 
+<html>
+	<head>
+			<title>Anytown USA</title>
+	</head>	
+	<body>
+		<h1>Visit Anytown USA!</h1>	
+		
+		<h2>Things to Do</h2>
+	<ul>	
+		<li><<a target"_blank" href="https://en.wikipedia.org/wiki/Hiking">Hiking</a> </li>
+		<li><a target"-blank" href="https://en.wikipedia.org/wiki/Cycling">Biking</a></li>
+		<li><a target"-blank" href="https://en.wikipedia.org/wiki/RidingHorseback">horseback riding</a></li>
+		<li><a target"-blank" href="https://en.wikipedia.org/wiki/Backpacking_(wilderness)">Backpacking</a></li>
+	</ul>	
+		<h2>Amazing Museums</h2>
+		<p>	While most museums are a collection of old artifacts and stuff that no one is really interested in seeing, our musuems are the best of the best.</p>
+			You won't find anything like these any where else in the world. Our museums rival that of our closest competitors including the Museum of Bad Art, the Paris Sewers Musuem and the Museum of Broken Relationships.
+			<p>Come check them out...the fun is waiting for you.</p>
+			<img src="images 5/museum.jpg" alt="museum" width="500"
+		
+		<h2>SplashAnyone Waterpark</h2>
+		<p>Our waterpark is the biggest and best park in the Western World. Just south of interstate 2015, you'll find a sweet mix of Super Slides and lazy rivers.</p>
+		If that wasn't enough, we have 376 of the best food trucks in the state serving everything from fried gummy bears to lemonade and pizza. Don't forget if you buy our collectors edition souvenir water park keepsake, you get free refills all year.
+		<p>And we wouldn't be SplashAnyone without the rules about splashing ... wait there are no rules.</p>
+		<img src="images 5/waterpark.jpg" alt="museum" width="500"
+		
+		<h2>Best Zoo in Town</h2>
+		Finally, you won't want to miss out cuddly little zoo animals. Lions, tigers and bears...Oh My! We have the largest selection of born in captivity animals. We didn't want to take the from their natural habitat, so we just got them from the other zoos in the state.
+		<img src="images 5/giraffe.jpg" alt="giraffe" width="500">
+		<h2>How to Get Here</h2>
+		<li>By Plane</li>
+		<li>By Train</li>
+		<li>By Automobile</li>
+		<li>By Boat</li>
+		<img src="images 5/train.jpg" alt="train" width="500"
+
+	</body>
+</html>
