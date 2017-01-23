@@ -43,4 +43,10 @@ body {
 		 body {
     background: #32382f;
   }
+	  
+article {
+	max-width:650px;
+	padding: 20px;
+	margin: 0 auto;
+	  }
   
